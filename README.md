@@ -48,12 +48,11 @@ Hi, I'm Christopher Márquez
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nemesis1174&theme=algolia&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nemesis1174&show_icons=true&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nemesis1174&show_icons=true&theme=algolia&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nemesis1174&layout=compact&theme=algolia&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nemesis1174&layout=compact&theme=dark" />
 </p>
 
 ---
@@ -61,7 +60,7 @@ Hi, I'm Christopher Márquez
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nemesis1174&theme=algolia&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Nemesis1174&theme=darkhub&margin-w=10&margin-h=10"/>
 </p>
 
 ---
