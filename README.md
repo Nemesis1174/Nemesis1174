@@ -1,7 +1,9 @@
 <h1 align="center">
 Hi, I'm Christopher Márquez
 </h1>
+
 <br>
+
 ## Connect with me
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nemesis1174)
