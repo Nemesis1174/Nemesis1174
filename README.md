@@ -2,6 +2,8 @@
 Hi, I'm Christopher Márquez
 </h1>
 
+<br>
+
 <p align="center">
   <a href="https://github.com/Nemesis1174">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
