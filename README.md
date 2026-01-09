@@ -9,7 +9,6 @@ Hi, I'm Christopher Márquez
 <a href="https://instagram.com/chris.marquez17"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
-<br>
 
 ## About Me 
 
