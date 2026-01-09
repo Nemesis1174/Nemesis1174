@@ -47,12 +47,30 @@ Hi, I'm Christopher Márquez
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nemesis1174&show_icons=true&theme=dark" />
-</p>
+<h2>GitHub <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30"/></h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nemesis1174&layout=compact&theme=dark" />
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Nemesis1174&theme=dark&show_icons=true"
+        alt="GitHub Stats"
+      />
+      <br><br>
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com?user=Nemesis1174&theme=dark"
+        alt="GitHub Streak"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nemesis1174&theme=dark&layout=compact"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
 </p>
 
 ---
