@@ -4,16 +4,6 @@ Hi, I'm Christopher Márquez
 
 ---
 
-## About Me :
-
-- Artificial Intelligence Engineering student with a strong foundation in Machine Learning, Computer Vision, and Image Processing  
-- Proficient in Python for developing, training, and evaluating AI models  
-- Experience in data analysis, feature extraction, and model evaluation pipelines  
-- Applied genetic algorithms and optimization techniques to complex problem-solving tasks  
-- Computer Vision & AI Developer at UPRobotics, contributing to RoboCup 2025 & 2026 by applying machine learning, image processing, and computer vision to solve perception and autonomy challenges within the competition
-
-<br>
-
 ## Connect with me :
 
 <br>
@@ -23,7 +13,17 @@ Hi, I'm Christopher Márquez
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-oswaldo-márquez-reyes-7a995b302/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/chris.marquez17)
 
-<br>
+---
+
+## About Me :
+
+- Artificial Intelligence Engineering student with a strong foundation in Machine Learning, Computer Vision, and Image Processing  
+- Proficient in Python for developing, training, and evaluating AI models  
+- Experience in data analysis, feature extraction, and model evaluation pipelines  
+- Applied genetic algorithms and optimization techniques to complex problem-solving tasks  
+- Computer Vision & AI Developer at UPRobotics, contributing to RoboCup 2025 & 2026 by applying machine learning, image processing, and computer vision to solve perception and autonomy challenges within the competition
+
+---
 
 ## My Skills :
 
@@ -42,12 +42,9 @@ Hi, I'm Christopher Márquez
 ### IDEs & Tools
 [![Tools](https://skillicons.dev/icons?i=androidstudio,pycharm,vscode,eclipse,visualstudio,git,postman,unity,arduino,blender,netlify,notion,ubuntu,arduino)](https://skillicons.dev)
 
-
-<br>
+---
 
 ## GitHub Stats :
-
-<h2>GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nemesis1174&show_icons=true&theme=dark" />
@@ -66,10 +63,7 @@ Hi, I'm Christopher Márquez
 ## GitHub Trophies :
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Nemesis1174&theme=darkhub&margin-w=15&margin-h=15"
-    alt="GitHub Trophies"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nemesis1174&theme=darkhub" />
 </p>
 
 ---
