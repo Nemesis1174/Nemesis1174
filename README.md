@@ -45,9 +45,7 @@ Hi, I'm Christopher Márquez
 
 <br>
 
-## 📊 GitHub Stats
-
-<h2>GitHub <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30"/></h2>
+## 📊 GitHub Stats :
 
 <p align="center">
 <table align="center">
@@ -75,15 +73,17 @@ Hi, I'm Christopher Márquez
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies :
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nemesis1174&theme=darkhub&margin-w=10&margin-h=10"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Nemesis1174&theme=darkhub&margin-w=15&margin-h=15"
+    alt="GitHub Trophies"
+  />
 </p>
-
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Activity :
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nemesis1174&theme=github-compact&hide_border=true"/>
