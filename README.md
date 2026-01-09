@@ -50,21 +50,18 @@ Hi, I'm Christopher Márquez
 <p align="center">
 <table align="center">
   <tr>
-    <td align="center" width="50%">
+    <td align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=Nemesis1174&theme=dark&show_icons=true"
-        alt="GitHub Stats"
+        src="https://github-readme-stats.vercel.app/api?username=Nemesis1174&show_icons=true&theme=dark&include_all_commits=true"
       />
       <br><br>
       <img
         src="https://github-readme-streak-stats.herokuapp.com?user=Nemesis1174&theme=dark"
-        alt="GitHub Streak"
       />
     </td>
-    <td align="center" width="50%">
+    <td align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nemesis1174&theme=dark&layout=compact"
-        alt="Top Languages"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nemesis1174&layout=compact&theme=dark&langs_count=8"
       />
     </td>
   </tr>
@@ -81,6 +78,7 @@ Hi, I'm Christopher Márquez
     alt="GitHub Trophies"
   />
 </p>
+
 ---
 
 ## 📈 Contribution Activity :
