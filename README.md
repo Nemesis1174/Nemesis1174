@@ -50,20 +50,16 @@ Hi, I'm Christopher Márquez
 <h2>GitHub Stats</h2>
 
 <p align="center">
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nemesis1174&show_icons=true&theme=dark" />
-      <br><br>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Nemesis1174&theme=dark" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nemesis1174&layout=compact&theme=dark" />
-    </td>
-  </tr>
-</table>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nemesis1174&show_icons=true&theme=dark" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nemesis1174&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nemesis1174&layout=compact&theme=dark" />
+</p>
 
 ---
 
