@@ -45,32 +45,29 @@ Hi, I'm Christopher Márquez
 
 <br>
 
-## 📊 GitHub Stats :
+## GitHub Stats :
+
+<h2>GitHub Stats</h2>
 
 <p align="center">
 <table align="center">
   <tr>
     <td align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=Nemesis1174&show_icons=true&theme=dark&include_all_commits=true"
-      />
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nemesis1174&show_icons=true&theme=dark" />
       <br><br>
-      <img
-        src="https://github-readme-streak-stats.herokuapp.com?user=Nemesis1174&theme=dark"
-      />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Nemesis1174&theme=dark" />
     </td>
     <td align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nemesis1174&layout=compact&theme=dark&langs_count=8"
-      />
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nemesis1174&layout=compact&theme=dark" />
     </td>
   </tr>
 </table>
 </p>
 
+
 ---
 
-## 🏆 GitHub Trophies :
+## GitHub Trophies :
 
 <p align="center">
   <img
@@ -81,7 +78,7 @@ Hi, I'm Christopher Márquez
 
 ---
 
-## 📈 Contribution Activity :
+## Contribution Activity :
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nemesis1174&theme=github-compact&hide_border=true"/>
