@@ -22,7 +22,6 @@ Hi, I'm Christopher Márquez
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.chris1174@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-oswaldo-márquez-reyes-7a995b302/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/chris.marquez17)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+524494767035)
 
 <br>
 
@@ -46,28 +45,29 @@ Hi, I'm Christopher Márquez
 
 <br>
 
-## GitHub Stats :
+## 📊 GitHub Stats
 
-<br>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nemesis1174&theme=algolia&hide_border=true" />
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nemesis1174&theme=algolia)](https://git.io/streak-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nemesis1174&theme=algolia&show_icons=true)](https://github.com/Nemesis1174)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nemesis1174&theme=algolia)](https://github.com/Nemesis1174)
-
-<br>
-
-## GitHub Trophies :
-
-<br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nemesis1174)](https://github.com/Nemesis1174)
-
-<br>
-
-## Activity Graph :
-
-<br>
-
-[![github activity graph](https://activity-graph.herokuapp.com/graph?username=Nemesis1174&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nemesis1174&show_icons=true&theme=algolia&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nemesis1174&layout=compact&theme=algolia&hide_border=true" height="170"/>
+</p>
 
 ---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nemesis1174&theme=algolia&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nemesis1174&theme=github-compact&hide_border=true"/>
+</p>
