@@ -19,7 +19,7 @@ About Me :
 
 <br>
 
-[![LinkedIn]([https://img.icons8.com/fluency/48/000000/linkedin.png](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))](https://www.linkedin.com/in/christopher-oswaldo-márquez-reyes-7a995b302/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-oswaldo-márquez-reyes-7a995b302/)
 [![GitHub](https://img.icons8.com/fluency/48/000000/github.png)](https://github.com/Nemesis1174)
 [![Email](https://img.icons8.com/fluency/48/000000/apple-mail.png)](mailto:mr.chris1174@gmail.com)
 
@@ -27,16 +27,30 @@ About Me :
 
 ## My Skills :
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular)](https://skillicons.dev)
+### AI / Data & Computer Vision
+[![AI](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,anaconda,jupyter)](https://skillicons.dev)
+
 <br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+### Programming Languages
+[![Languages](https://skillicons.dev/icons?i=py,c,cpp,cs,java,js,ts,kotlin,dart,html,css)](https://skillicons.dev)
+
 <br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+### Backend & Databases
+[![Backend](https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb,firebase,supabase,nodejs,fastapi)](https://skillicons.dev)
+
 <br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+### Frontend & Mobile Frameworks
+[![Frameworks](https://skillicons.dev/icons?i=react,angular,reactnative,flutter,bootstrap,tailwind)](https://skillicons.dev)
+
 <br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-<br>
+
+### IDEs & Tools
+[![Tools](https://skillicons.dev/icons?i=androidstudio,pycharm,vscode,eclipse,visualstudio,git,postman,unity,arduino,blender,netlify,notion,ubuntu)](https://skillicons.dev)
+
+
 
 <!-- Frontend / Mobile -->
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
