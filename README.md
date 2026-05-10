@@ -12,7 +12,7 @@ Hi, I'm Christopher Márquez
 
 ## About Me 
 
-- Artificial Intelligence Engineering student with a strong foundation in Machine Learning, Computer Vision, and Image Processing  
+- Artificial Intelligence Engineering student with a strong foundation in Machine Learning, Deep Learning and Computer Vision
 - Proficient in Python for developing, training, and evaluating AI models  
 - Experience in data analysis, feature extraction, and model evaluation pipelines  
 - Applied genetic algorithms and optimization techniques to complex problem-solving tasks  
